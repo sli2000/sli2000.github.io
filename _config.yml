@@ -4,7 +4,7 @@
 locale                   : "en-US"
 title                    : "Su Li / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Su Li"
 description              : &description "personal description"
 url                      : "https://sli2000.github.io" 
 baseurl                  : #
