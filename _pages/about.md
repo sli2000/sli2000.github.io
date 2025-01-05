@@ -19,4 +19,4 @@ You can find more about me here:
 - [Email](https://github.com/sli2000)
 - [GitHub](https://github.com/sli2000)
 - [LinkedIn](https://www.linkedin.com/in/su-li-6ab066287/)
-- [Curriculum Vitae](../assets/CV-Su.pdf)
+- [Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
