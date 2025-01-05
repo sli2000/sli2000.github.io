@@ -13,7 +13,7 @@ I'm a second-year master's student in the [Methodology and Statistics for the Be
 Currently, my master's thesis focuses on validating the theoretical behavior of prognostic and diagnostic models under shifts in case-mix. Specifically, I build multiple **prognostic** and **diagnostic models** using **logistic regression** to investigate how **calibration remains unchanged in prognostic models**, while **discrimination remains stable in diagnostic models**, despite variations in case-mix. This work contributes to a deeper understanding of model behavior and robustness, which is critical for reliable clinical and policy decision-making.
 
 
-I am fortunate to be advised by [Wouter van Amsterdam](https://wvanamsterdam.com/)) at University Medical Center Utrecht. 
+I am fortunate to be advised by [Wouter van Amsterdam](https://wvanamsterdam.com/) at University Medical Center Utrecht. 
 
 You can find more about me here:
 - [Email](https://github.com/sli2000)
