@@ -1,18 +1,11 @@
 ---
-layout: page
-title: "Publications"
+title: "No Publications Yet"
+collection: publications
+layout: default
 permalink: /publications/
+excerpt: 'Publications will be listed here in the future. Stay tuned!'
 ---
 
 ## Publications
 
-
----
-title: "Upcoming Events"
-collection: Publications
-type: "Upcoming"
-permalink: /publications/upcoming
-layout: publications
----
-
-Currently, there are no publications listed. Please check back later for updates.
+There are no publications yet. Please check back later for updates!
