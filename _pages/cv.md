@@ -41,11 +41,7 @@ Skills
 
 Publications
 ======
-  
-  
-Talks
-======
- 
+No publications are currently listed. Please check back later for updates.
   
 Teaching
 ======
