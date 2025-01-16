@@ -47,6 +47,6 @@ Teaching
 ======
 In August 2024, I worked as a Teaching Assistant for the **Structural Equation Modeling (SEM)** course at [Utrecht University]. My responsibilities included:
 -Assisting students in understanding key concepts of SEM, such as latent variables, path analysis, and model fitting.
-- Conducting lab sessions to demonstrate the use of software tools (e.g., R) for SEM analysis.
+- Conducting lab sessions to demonstrate the use of software tools (e.g., R) for SEM analysis. 
   
 
