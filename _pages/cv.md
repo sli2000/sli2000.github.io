@@ -27,7 +27,7 @@ Emergencies- Example of the COVID-19 Pandemic (National Social Science Foundatio
   * Proposed a thesis concept and constructed a full-text framework; then formulated an empirical model (SV-TVP-VAR),
 channel variables, and specific measurement indicators
   * Completed data cleaning by using Stata and EViews software, performing tasks such as de-duplication, de-polarization,
-and filling in missing values
+and filling in missing values 
   * Analyzed the impact of agricultural prices on different channels/periods/varieties, and visualized the results for 10
 agricultural products via 64 graphs
 
