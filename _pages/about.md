@@ -14,7 +14,7 @@ I'm conducting my master's thesis under the supervision of [Wouter van Amsterdam
 
 
 You can find more about me here:
-- [Email](https://github.com/sli2000)
+- [Email](mailto:s.li8@students.uu.nl)
 - [GitHub](https://github.com/sli2000)
 - [LinkedIn](https://www.linkedin.com/in/su-li-6ab066287/)
 - [Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
