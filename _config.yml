@@ -7,7 +7,7 @@ title_separator          : "-"
 name                     : &name "Su Li"
 description              : &description "personal description"
 url                      : "https://sli2000.github.io" 
-baseurl                  : #
+baseurl                  : ""
 repository               : "sli2000/sli2000.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -19,8 +19,8 @@ author:
   name             : "Su Li"  
   bio              : "Hi, I'm Su."
   location         : "Netherlands"
-  employer         : #"Re University"
-  uri              : # URL
+  employer         : ""
+  uri              : ""
   email            : "s.li8@students.uu.nl" 
 
   # Academic websites
