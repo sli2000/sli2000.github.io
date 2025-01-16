@@ -1,12 +1,13 @@
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Su Li / Personal Homepage"
-title_separator          : "-"
-name                     : "Su Li"
-description              : "personal description"
-url                      : "https://sli2000.github.io" 
-baseurl                  : ""
-repository               : "sli2000/sli2000.github.io"
+locale: "en-US"
+title: "Su Li / Personal Homepage"
+title_separator: "-"
+name: "Su Li"
+description: "personal description"
+url: "https://sli2000.github.io"
+baseurl: ""  # Leave blank for root
+repository: "sli2000/sli2000.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
